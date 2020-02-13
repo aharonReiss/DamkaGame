@@ -1,0 +1,23 @@
+.dotBlue {
+  height: 60px;
+  width: 60px;
+  background-color:blue;
+  border-radius: 50%;
+  margin: auto;
+  }
+  .dotYellow {
+    height: 60px;
+    width: 60px;
+    background-color:green;
+    border-radius: 50%;
+    margin: auto;
+  }
+  .king
+  {
+    height: 30px;
+    width: 30px;
+    background-color:green;
+    border-radius: 50%;
+    margin: auto;
+  }
+  
